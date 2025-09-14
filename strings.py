@@ -8,7 +8,7 @@ def main():
 
     print("This print \ris to test cariage return" )
 
-    print("Double Quote \"Chararacter\"")
+    print("Double Quote \"Chararacters\"")
     print("Single \'Quotes\'")
 
     print("Print Statement To Test Backslash Character. Like in File directory. \\John\\egandu\\files")
